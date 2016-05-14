@@ -1,0 +1,6 @@
+[package]
+name = "markov-mashup"
+version = "0.1.0"
+authors = ["Sven-Hendrik Haase <sh@lutzhaase.com>"]
+
+[dependencies]
